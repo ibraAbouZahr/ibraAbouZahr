@@ -19,7 +19,7 @@ I recently built an app using **Streamlit** to analyze Uber pickups!
 Check it out here: [Uber Pickups Analysis 🚖](https://uber-pickupsgit-lt6msgyw2uysom7lfwz5du.streamlit.app/)  
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ibrahim-abouzahr-dev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](in/ibrahim-abouzahr-dev)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ibraAbouZahr)  
 
 
