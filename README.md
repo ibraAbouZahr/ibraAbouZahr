@@ -9,14 +9,14 @@ My name is **Ibrahim**, a Computer Science student passionate about **Software D
 
 ### 🔭 What I’m Working On  
 - **Stoxify** 📈 – An AI-powered stock price predictor.  
-- **Crude Oil Predictor** ⛽ – A forecasting model using **ARIMA**.  
+- **My E-Portfolio** 📒 – A Modern E-Portfolio using **React**.  
 
 ### 🌱 What I’m Learning  
-- **Machine Learning, Python, Streamlit, React, and Power BI**.  
+- **Machine Learning, Python, Streamlit, React, Power BI and System Design**.  
 
 ### 🚀 Latest Project  
-I recently built an app using **Streamlit** to analyze Uber pickups!  
-Check it out here: [Uber Pickups Analysis 🚖](https://uber-pickupsgit-lt6msgyw2uysom7lfwz5du.streamlit.app/)  
+I recently completed the Crude Oil Price Forecast project, I used **Streamlit** to host it!
+Check it out here: [ARIMA Crude Oil Price Forecasting ⛽](https://crude-oil-forecast.streamlit.app/)  
 
 ### 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](in/ibrahim-abouzahr-dev)  
