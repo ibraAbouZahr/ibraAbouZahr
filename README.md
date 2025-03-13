@@ -15,7 +15,7 @@ My name is **Ibrahim**, a Computer Science student passionate about **Software D
 - **Machine Learning, Python, Streamlit, React, Power BI and System Design**.  
 
 ### 🚀 Latest Project  
-I recently completed the Crude Oil Price Forecast project, I used **Streamlit** to host it!
+- **I recently completed the Crude Oil Price Forecast project, I used **Streamlit** to host it!**
 Check it out here: [ARIMA Crude Oil Price Forecasting ⛽](https://crude-oil-forecast.streamlit.app/)  
 
 ### 📫 Connect with Me  
